@@ -1,7 +1,7 @@
 # The Wanda Magic teapot virtual version. Just like the original it has 5 options that will guide your future. Just think of a question and see.
 import random
 import time
-(print("Hmmm, the answer to your question is... • Хммм, отговорът на твоят въпрос е:"))
+(print("Hmmm, the answer to your question is... • Хммм, отговорът на твоя въпрос е:"))
 time.sleep(2)
 answer=random.randint(1,5)
 if answer==1:
